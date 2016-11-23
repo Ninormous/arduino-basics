@@ -11,3 +11,5 @@ const int TRIGGER = A0;
 const int ECHO = A1;
 ```
 If you plan on using different pins, just change the value in the variable assignment.
+## License
+The contents of this repository are covered under the [MIT License](https://github.com/anthony-barone/arduino-basics/blob/master/LICENSE)
